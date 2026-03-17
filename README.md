@@ -15,7 +15,7 @@ This is a simple web application that calculates a user's age based on their dat
 
 ## How to Run
 1. Download or clone the repository
-2. Open index.html in your browser
+2. Open Calculator.html in your browser
 
 ## Author
 Wahib Ejaz
